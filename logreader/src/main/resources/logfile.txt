@@ -1,0 +1,19 @@
+{"id":"scsmbstgra", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491234}
+{"id":"scsmbstgrb", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491235}
+{"id":"scsmbstgrc", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491236}
+{"id":"scsmbstgra", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491245}
+{"id":"scsmbstgrd", "state":"STARTED", "timestamp":1491237}
+{"id":"scsmbstgre", "state":"STARTED", "timestamp":1491234}
+{"id":"scsmbstgrc", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491237}
+{"id":"scsmbstgrb", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491238}
+{"id":"scsmbstgre", "state":"FINISHED", "timestamp":1491247}
+{"id":"scsmbstgrf", "state":"STARTED", "timestamp":1491240}
+{"id":"scsmbstgrg", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491240}
+{"id":"scsmbstgrh", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491242}
+{"id":"scsmbstgri", "state":"STARTED", "timestamp":1491241}
+{"id":"scsmbstgrf", "state":"FINISHED", "timestamp":1491250}
+{"id":"scsmbstgrg", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491259}
+{"id":"scsmbstgrh", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491245}
+{"id":"scsmbstgrj", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491234}
+{"id":"scsmbstgri", "state":"FINISHED", "timestamp":1491243}
+{"id":"scsmbstgrd", "state":"FINISHED", "timestamp":1491239}
