@@ -1,0 +1,6 @@
+/*C2*/SET SCHEMA PUBLIC
+CREATE TABLE IF NOT EXISTS \u000d\u000aEVENTLOG (id varchar(25), eventDuaration INT, host varchar(25), type varchar(25), alert varchar(25))
+INSERT INTO EVENTLOG VALUES('scsmbstgra',11,'12345','APPLICATION_LOG','YES')
+COMMIT
+INSERT INTO EVENTLOG VALUES('scsmbstgrb',3,'12345','APPLICATION_LOG','NO')
+COMMIT
